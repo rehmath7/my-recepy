@@ -1,0 +1,1 @@
+potatoes, salt, oil, mayonese, ketcup;
